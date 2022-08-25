@@ -458,6 +458,7 @@ Makefile                                              @thiagokokada
 /tests/modules/services/twmn                          @Austreelis
 
 /modules/services/udiskie.nix                         @rycee
+/tests/modules/services/udiskie                       @rycee
 
 /modules/services/unison.nix                          @pacien
 
@@ -489,7 +490,7 @@ Makefile                                              @thiagokokada
 
 /modules/services/xembed-sni-proxy.nix                @rycee
 
-/modules/services/xidlehook.nix                       @dschrempf
+/modules/services/xidlehook.nix                       @dschrempf @bertof
 
 /modules/services/xscreensaver.nix                    @rycee
 
